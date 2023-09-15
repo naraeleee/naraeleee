@@ -2,31 +2,31 @@
 
 Welcome to Narae's Github!
 
-<p align="center"> 
+<div align="center"> <!-- Center aligns the following content -->
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a Software/Ai Engineer 」
+    「 I am a Software/AI Engineer 」
     <br>
     <br>
   </samp>
-</p>
+</div>
 
-<p align="center">
- <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/narae-lee-a3390721b/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-</p>
+<div align="center"> <!-- Center aligns the following content -->
+  <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/narae-lee-a3390721b/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  </a>
+</div>
 <br />
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naraeleee&exclude_repo=UTimetable)
+<!-- Center aligns the GitHub top languages section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraeleee&exclude_repo=UTimetable" alt="Top Langs"/>
+</div>
 
 <!--
 **naraeleee/naraeleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
