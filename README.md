@@ -2,9 +2,8 @@
 
 Welcome to Narae's Github!
 
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naraeleee&exclude_repo=UTimetable)
--->
 
 <!--
 **naraeleee/naraeleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
