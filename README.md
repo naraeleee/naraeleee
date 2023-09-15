@@ -12,7 +12,7 @@ Welcome to Narae's Github!
 </div>
 
 <div align="center"> <!-- Center aligns the following content -->
-  <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/narae-lee-a3390721b/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/narae-lee-a3390721b](https://www.linkedin.com/in/narae-lee-a3390721b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
   </a>
 </div>
