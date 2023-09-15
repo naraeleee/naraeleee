@@ -4,7 +4,6 @@ Welcome to Narae's Github!
 
 <div align="center"> <!-- Center aligns the following content -->
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a Software/AI Engineer 」
     <br>
