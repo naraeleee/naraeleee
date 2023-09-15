@@ -2,21 +2,7 @@
 
 Welcome to Narae's Github!
 
-<div align="center"> <!-- Center aligns the following content -->
-  <samp>
-    <br>
-    「 I am a Software/AI Engineer 」
-    <br>
-    <br>
-  </samp>
-</div>
 
-<div align="center"> <!-- Center aligns the following content -->
-  <a href="[https://www.linkedin.com/in/narae-lee-a3390721b](https://www.linkedin.com/in/narae-lee-a3390721b/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
-  </a>
-</div>
-<br />
 
 <!-- Center aligns the GitHub top languages section -->
 <div align="center">
