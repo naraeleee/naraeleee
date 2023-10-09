@@ -2,7 +2,7 @@
 
 Welcome to Narae's Github!
 
-Portfolio: naraelee.com
+Portfolio: https://naraelee.com/
 
 
 
