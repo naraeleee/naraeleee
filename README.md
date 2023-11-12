@@ -4,7 +4,7 @@ Welcome to Narae's Github!
 
 Portfolio: https://naraelee.com/
 
-(https://github-readme-stats.vercel.app/api?username=naraeleee&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+(https://github-readme-stats.vercel.app/api?username=naraeleee&show_icons=true&theme=default#gh-light-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!-- Center aligns the GitHub top languages section -->
