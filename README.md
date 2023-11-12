@@ -5,7 +5,6 @@ Welcome to Narae's Github!
 Portfolio: https://naraelee.com/
 
 
-
 <!-- Center aligns the GitHub top languages section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraeleee&exclude_repo=UTimetable" alt="Top Langs"/>
